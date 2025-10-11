@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏫 I'm currently studying at University of Information Technology - VNUHCM<br>🌱 I’m currently learning Backend Development<br>
+ℹ️ Name : Tuan<br>📆 Year of birth : 2006<br>🏫 I'm studying at University of Information Technology - VNUHCM<br> Currently learning Backend Development<br>
 
 
 ## 🌐 Socials:
