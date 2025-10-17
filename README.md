@@ -1,5 +1,5 @@
-# 💫 Hoang Duc Anh Tuan:
-ℹ️ Year of birth : 2006<br>🏫 Currently studying at University of Information Technology - VNUHCM
+# ℹ️ Hoang Duc Anh Tuan:
+🏫 Currently studying at University of Information Technology - VNUHCM
 
 
 ## 🌐 Socials:
