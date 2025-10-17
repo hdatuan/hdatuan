@@ -1,4 +1,4 @@
-# ℹ️ Hoang Duc Anh Tuan:
+# ℹ️ Hoang Duc Anh Tuan
 🏫 Currently studying at University of Information Technology - VNUHCM
 
 
