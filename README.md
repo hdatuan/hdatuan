@@ -6,7 +6,7 @@
 ## Certificates
 
 <p align="center">
-    <img src="aws-certified-cloud-practitioner.png" alt="AWS CLF" width="120" />
+    <img src="aws-certified-cloud-practitioner.png" alt="AWS CLF" width="170" />
 </p>
 
 ## Activities
