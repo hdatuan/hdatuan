@@ -55,7 +55,7 @@
     <br/>
     <br/>
     <img src="https://komarev.com/ghpvc/?username=hdatuan&style=flat-square&color=59e1ff&labelColor=0D1117">
-    <img src="https://img.shields.io/github/followers/hdatuan?style=flat-square&color=59e1ff" />
+    <!-- <img src="https://img.shields.io/github/followers/hdatuan?style=flat-square&color=59e1ff" /> -->
 </div>
 
 
