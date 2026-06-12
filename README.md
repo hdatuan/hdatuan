@@ -58,4 +58,12 @@
     <!-- <img src="https://img.shields.io/github/followers/hdatuan?style=flat-square&color=59e1ff" /> -->
 </div>
 
+<h3 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+  Thanks for visiting my profile! 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+</h3>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+</div>
