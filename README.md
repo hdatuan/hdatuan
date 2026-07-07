@@ -16,14 +16,9 @@
   <img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch" />
 </p>
 
-<p align="center"><b>Development & Tools</b></p>
+<p align="center"><b>Development</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,maven,postman" />
-</p>
-
-<p align="center"><b>Databases</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,postman,mysql,postgres" />
 </p>
 
 <!-- Certificates -->
