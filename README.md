@@ -1,28 +1,48 @@
 <!-- Header -->
+<h1 align="center">Welcome to my profile</h1>
+
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&duration=3000&pause=1000&color=00FFFF&center=true&width=600&height=80&lines=Ho%C3%A0ng+%C4%90%E1%BB%A9c+Anh+Tu%E1%BA%A5n;DevOps+%7C+Cloud+%7C+Backend" alt="Typing SVG" /></a>
 </div>
 
 <!-- Tech stack -->
-<h2 align="left"><i>Technical Stack</h2>
+<h2 align="left">Technical Stack</h2>
 
-<p align="center"><b>DevOps, Automation & Cloud</b></p>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=jenkins,docker,kubernetes,ansible,terraform,bash,aws,gcp" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" width="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original.svg" width="40"/>
 </p>
 
-<p align="center"><b>Monitoring & Observability</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/grafana/loki/main/docs/sources/logo.png" width="40">
+<!--  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/beats/beats-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/logstash/logstash-original.svg" width="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kibana/kibana-original.svg" width="40"/>
 </p>
 
-<p align="center"><b>Development</b></p>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,maven,postman,mysql,postgres" />
+-->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" width="40"/>
 </p>
+
 
 <!-- Certificates -->
-<h2 align="left"><i>Certificates</h2>
+<h2 align="left">Certificates</h2>
 
 <p align="center">
     <a href="https://www.credly.com/badges/59061af2-fdc6-4860-88e2-f29da077f552/public_url">
@@ -31,18 +51,18 @@
 </p>
 
 <!-- Activity Graph -->
-<h2 align="left"><i>Activity Graph</h2>
+<!-- <h2 align="left">Activity Graph</h2>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hdatuan&bg_color=263238&color=006eff&line=006eff&point=006eff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hdatuan&bg_color=263238&color=006eff&line=006eff&point=006eff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 <!-- Contribution Graph -->
-<h2 align="left"><i>Contribution Graph</h2>
+<h2 align="left">Contribution Graph</h2>
     <div align="center">
         <img src="github-user-contribution.svg"/>
     </div>
 
 <!-- Connect with me -->
-<h2 align="left"><i>Connect with me</h3>
+<h2 align="left">Connect with me</h3>
 
 <div align="center">
     <a href="https://linkedin.com/in/hdatuan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hdatuan" height="30" width="40" /></a>
@@ -53,12 +73,4 @@
     <!-- <img src="https://img.shields.io/github/followers/hdatuan?style=flat-square&color=59e1ff" /> -->
 </div>
 
-<h3 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-  Thanks for visiting my profile! 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-</h3>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-
-</div>
