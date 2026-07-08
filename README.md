@@ -1,7 +1,14 @@
 <!-- Header -->
 <h1 align="center">Hoàng Đức Anh Tuấn</h1>
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&duration=3000&pause=1000&color=00FFFF&center=true&width=700&height=80&lines=Hoang+Duc+Anh+Tuan;DevOps+%7C+Cloud+%7C+Automation" alt="Typing SVG" /></a>
+</div>
 
 I'm a **Computer Networks and Data Communications** student at the **University of Information Technology (VNU-HCM)** with a strong interest in DevOps, Cloud Computing, and Infrastructure Automation.
+
+
+
+
 
 <!-- Tech stack -->
 <h2 align="left">Technologies</h2>
