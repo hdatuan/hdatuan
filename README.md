@@ -6,8 +6,7 @@
 
 I'm a **Computer Networks and Data Communications** student at the **University of Information Technology (VNU-HCM)** with a strong interest in DevOps, Cloud Computing, and Infrastructure Automation.
 
-
-
+I aspire to build reliable and scalable systems with a strong focus on automation, operational excellence, and continuous improvement.
 
 
 <!-- Tech stack -->
@@ -54,6 +53,9 @@ I'm a **Computer Networks and Data Communications** student at the **University 
         <img src="aws-certified-cloud-practitioner.png" alt="AWS CLF" width="200" />
     </a>
 </p>
+
+Currently preparing for the *AWS Certified Solutions Architect – Associate* and *AWS Certified CloudOps Engineer – Associate* certifications.
+
 
 <!-- Activity Graph -->
 <!-- <h2 align="left">Activity Graph</h2>
