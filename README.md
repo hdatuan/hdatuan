@@ -1,1 +1,1 @@
-hoc ngu qua, zzz
+zzz
